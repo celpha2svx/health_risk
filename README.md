@@ -6,7 +6,7 @@ A simple machine learning app that predicts anemia severity from complete blood 
 
 - Loads a real CBC anemia dataset.  
 - Splits hemoglobin values into 4 WHO‑based classes: no_anemia, mild, moderate, severe.  
-- Trains an SVM model (with Logistic Regression and XGBoost as baselines).  
+- Trains an SVM model (with Logistic Regression  as baselines).  
 - Serves predictions via a Streamlit web app with friendly, user‑oriented messages.
 
 ## Goal
